@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+    color: navy;
+    text-align: center;
+}
+
+table, th, td {
+    border: 1px solid black;
+  }
+
+th, td {
+    padding: 10px 20px;
+}
+
+table {
+    margin: auto;
+}
